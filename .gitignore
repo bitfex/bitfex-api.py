@@ -1,0 +1,5 @@
+*.pyc
+dist/
+build/
+bitfex.egg-info/
+.mypy_cache/
