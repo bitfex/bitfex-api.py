@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="bitfex",
-  version="1.0.0",
+  version="1.0.1",
   author="BitFex.Trade",
   author_email="support@bitfex.trade",
   description="BitFex.Trade python API wrapper",
